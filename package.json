@@ -1,6 +1,6 @@
 {
   "name": "react-native-awesome-module-two",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "des-two",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
